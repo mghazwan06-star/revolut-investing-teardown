@@ -1,38 +1,37 @@
-# Research method: what top product teams do, and how we apply it
+[← Brief](brief.md) · **Step 1 of 6: Scope** · Next: [Teardown log →](../02-teardown/teardown-log.md)
 
-Researched Oct 18, 2026. Used to shape the plan, the interview guide, the PRD and the journey map.
+# Research method
 
-## Principles
+How product teams at top tech companies run discovery, and how I applied each practice here.
 
-1. **Start with the customer, not the features.** Amazon teams write a one-page press release and FAQ (PR/FAQ) before they ask for budget, a team or code. The PR/FAQ comes before the PRD and becomes its scope anchor. Gather customer evidence first.
-2. **A PRD opens with the problem and the evidence.** It has one primary success metric, counter-metrics (things we do not want to hurt) and explicit non-goals. If QA cannot write a test for a requirement, rewrite it. Beware vanity metrics that only go up, like total signups.
-3. **Interviews ask about the past** (the Mom Test): specific past behaviour, not opinions or hypotheticals. Never mention your idea. Patterns usually show up by about the fifth interview. Guides suggest 10 to 15 interviews for real confidence in a problem definition, so 5 to 6 is early evidence and the PRD says so.
-4. **Problems are written as jobs to be done:** "When [situation], I want to [motivation], so I can [outcome]."
-5. **Journey maps** follow the Nielsen Norman Group format (see [journey map](../02-teardown/journey-map.md)).
-6. **For a regulated fintech product, a guardrail matters.** The FCA found engagement features (push notifications, prize draws) can increase trading frequency and risk-taking. Our PRD therefore needs a counter-metric: the fix must not push first-timers to trade more.
+## Principles I followed
 
-## PRD structure to use (see the PRD template)
+| Practice | What it means | How I applied it |
+| --- | --- | --- |
+| **Working backwards** (Amazon PR/FAQ) | Write the press release and FAQ before any requirements, so the customer problem anchors the scope | The [PR/FAQ](../04-prfaq/prfaq.md) was written and agreed before the [PRD](../05-prd/prd.md) |
+| **Problem first, then evidence** | A PRD opens with the problem and its evidence, then one primary metric, guardrails and explicit non-goals | [PRD sections 1 to 5](../05-prd/prd.md) |
+| **The Mom Test** | Ask about specific past behaviour, not opinions or hypotheticals; never pitch the idea | The [interview guide](../03-research/interview-guide.md) asks "walk me through the last time", and screens come last |
+| **Jobs to be done** | Write the problem as "When ___, I want to ___, so I can ___" | The job statement in the [synthesis](../03-research/synthesis.md#5-the-problem-decision-g2) |
+| **Journey mapping** (Nielsen Norman Group) | Actor, scenario, phases, actions, feelings and opportunities on one map | The [journey map](../02-teardown/journey-map.md) |
+| **Pre-registered decision rule** | Decide before the research what evidence would count | A problem counts only if 3 of 6 raise it unprompted, or 2 say it made them stop |
+| **Opportunity solution tree** (Teresa Torres) | Link the outcome to customer needs, solution ideas and the tests behind them | [Miro frame 4](https://miro.com/app/board/uXjVEYcX4L0=/?moveToWidget=3458764687766336443) |
+| **Assumption mapping** | Rank assumptions by importance and evidence; test the risky ones first | [Miro frame 5](https://miro.com/app/board/uXjVEYcX4L0=/?moveToWidget=3458764687766369806) |
+| **Guardrail metrics** | A metric that must not get worse while the main metric improves | In a regulated investing product, the fix must not push first-timers to trade more (FCA research, UK context) |
 
-Problem with evidence; goals; non-goals; one primary metric; secondary and counter-metrics; users and jobs; numbered requirements with acceptance criteria; rollout; risks; open questions. Evidence labelled Primary or Secondary. Targets are proposals with "baseline to be measured" because Muhammad has no access to Revolut data.
+## Sample size
 
-## Prioritisation (keep it light)
+Patterns usually appear by about the fifth interview; guides suggest 10 to 15 for real confidence in a problem definition. Six interviews are therefore early evidence, and every document says so.
 
-Rank the candidate problems by how many interviewees raised each and how bad it was, using the decision rule in [interview guide](../03-research/interview-guide.md). A simple impact and effort or RICE sort can be added for the requirements, but do not overbuild: the deadline is five days.
+## How the PR/FAQ and PRD follow industry practice
 
-## Industry-standard check of the PR/FAQ and PRD (Oct 19)
+- **PR/FAQ:** headline, dateline, problem, solution, a real customer quote, how to start, customer FAQ and internal FAQ (customer size, why build it, effort, alternatives, riskiest assumption, stop criteria).
+- **PRD:** header, TL;DR, problem and evidence, why now, users and stories, goals and non-goals, metrics with guardrails, solution flow, P0/P1 requirements with acceptance criteria, edge cases, alternatives, assumptions, rollout, risks, open questions, change log.
+- **Deliberate deviations:** Amazon PR/FAQs often use invented customer and leader quotes; mine uses only real interview quotes and my own words. The PRD gives no target numbers or effort estimates, because I have no access to Revolut data or its team; baselines are "to be measured".
 
-Checked against the Amazon "Working Backwards" PR/FAQ format and common big-tech PRD structures (problem first, TL;DR, goals and non-goals, metrics with guardrails, prioritised requirements, alternatives, assumptions, rollout).
+## Sources for the method
 
-- **PR/FAQ, added:** dateline, author quote, customer and internal FAQ split, customer size ("to be measured"), why Revolut should build it, build effort, alternatives considered, riskiest assumption.
-- **PR/FAQ, deliberate deviation:** Amazon PR/FAQs often invent customer and leader quotes. This one uses only real interview quotes and the author's own words, because of the "never invent evidence" rule.
-- **PRD, added:** document header, TL;DR, why now, user stories, a solution flow diagram (Mermaid, renders on GitHub), P0/P1 priorities, edge cases, alternatives, assumptions, dependencies, change log.
-- **PRD, deliberate deviation:** no target numbers or effort estimates, because there is no access to Revolut data or the team. Baselines are "to be measured".
+Amazon "Working Backwards" PR/FAQ write-ups; PRD best-practice guides; jobs-to-be-done guides; *The Mom Test*; Nielsen Norman Group, "Journey Mapping 101"; Teresa Torres on opportunity solution trees and interview snapshots; FCA research "Gaming trading". Dated links in [sources.md](../sources.md).
 
-## Sources used
+---
 
-- Amazon "Working Backwards" PR/FAQ guides (several write-ups).
-- PRD best-practice guides (problem first, success metrics, non-goals).
-- Jobs-to-be-done framework guides.
-- The Mom Test interview method summaries.
-- Nielsen Norman Group, "Journey Mapping 101".
-- FCA research "Gaming trading" and the FCA discussion paper on expanding consumer access to investments.
+[← Brief](brief.md) · Next: [Teardown log →](../02-teardown/teardown-log.md)
