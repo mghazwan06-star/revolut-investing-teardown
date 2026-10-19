@@ -1,3 +1,5 @@
-# 05 · PRD
+[← Overview](../README.md)
 
-[PRD](prd.md): the problem and its evidence, goals and non-goals, one primary metric with guardrails, prioritised requirements with acceptance criteria, alternatives, assumptions, rollout and risks.
+# Step 5 · PRD
+
+[PRD](prd.md): the problem and its evidence, why now, users and stories, goals and non-goals, one primary metric with guardrails, a solution flow, prioritised requirements with acceptance criteria, alternatives, assumptions, rollout, risks and open questions.

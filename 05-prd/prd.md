@@ -1,12 +1,14 @@
+[← PR/FAQ](../04-prfaq/prfaq.md) · **Step 5 of 6: PRD** · Next: [Deck →](../06-deck/)
+
 # PRD: Helping students choose their first long-term fund
 
 | | |
 | --- | --- |
 | **Author** | Muhammad Ghazwan |
 | **Status** | v1.1 draft, Mon Oct 19, 2026 |
-| **Decisions** | G1 scope (students) · G2 problem · G3 metric and non-goals: all approved by the author, Oct 19 |
+| **Decisions** | G1 scope (students) · G2 problem · G3 metric and non-goals: all decided by the author, Oct 19 ([decision log](../01-scope/brief.md#decision-log)) |
 | **Reviewers in a real team** | Design, mobile engineering, data science, compliance, legal (not reviewed: independent project) |
-| **Related** | PR/FAQ [PR/FAQ](../04-prfaq/prfaq.md) · Synthesis [synthesis](../03-research/synthesis.md) · Walkthrough [teardown log](../02-teardown/teardown-log.md) |
+| **Related** | [PR/FAQ](../04-prfaq/prfaq.md) · [Synthesis](../03-research/synthesis.md) · [Teardown log](../02-teardown/teardown-log.md) · [Miro board](https://miro.com/app/board/uXjVEYcX4L0=/) |
 
 **This is an independent student teardown and proposal, not a Revolut document.** Evidence labels: **Primary** = own app walkthrough (Oct 18 to 19) and six interviews (Oct 19). **Secondary** = public sources, date checked. Targets are proposals; baselines are "to be measured".
 
@@ -97,15 +99,15 @@ One button, one screen and two lines of copy, all built from data the app alread
 
 ```mermaid
 flowchart LR
-    A[Search 'S&P 500'] --> B{2 or more funds<br/>on the same index?}
-    B -- No --> C[Normal results]
-    B -- Yes --> D[Button: Same index,<br/>what's different?]
-    D --> E[Side-by-side view:<br/>cost, income type, size,<br/>provider, index]
-    E --> F[Open a fund page]
-    F --> G[Buy]
-    G --> H{First order<br/>of a fund?}
-    H -- Yes --> I[Two-line risk summary]
-    H -- No --> J[Order screen as today]
+    A["Search S&P 500"] --> B{"2 or more funds<br/>on the same index?"}
+    B -- No --> C["Normal results"]
+    B -- Yes --> D["Button: Same index,<br/>what's different?"]
+    D --> E["Side-by-side view:<br/>cost, income type, size,<br/>provider, index"]
+    E --> F["Open a fund page"]
+    F --> G["Buy"]
+    G --> H{"First order<br/>of a fund?"}
+    H -- Yes --> I["Two-line risk summary"]
+    H -- No --> J["Order screen as today"]
     I --> J
 ```
 
@@ -186,6 +188,13 @@ P0 = needed for the experiment. P1 = should have. Each has an acceptance criteri
 - PR/FAQ: [PR/FAQ](../04-prfaq/prfaq.md)
 - Walkthrough log: [teardown log](../02-teardown/teardown-log.md) (S01 to S45)
 - Competitor comparison and fee check: [alternatives comparison](../02-teardown/alternatives-comparison.md)
+- Opportunity solution tree and assumption map: [Miro frames 4 and 5](https://miro.com/app/board/uXjVEYcX4L0=/?moveToWidget=3458764687766336443)
+- Eight-slide summary: [deck](../06-deck/)
+- All sources with dates: [sources.md](../sources.md)
 - Secondary sources (checked Oct 19, 2026 unless stated): ESMA guidance on the definition of investment advice (2015 materials, 2023 supervisory briefing) and law-firm summaries; Revolut 2025 annual results (March 2026); Revolut help centre on Robo-Advisor fees (Oct 18); FCA research on engagement features (Oct 18).
 
 **Change log.** v1.0 (Oct 19): first draft. v1.1 (Oct 19): added TL;DR, why now, user stories, solution flow, priorities, edge cases, alternatives, assumptions and dependencies after an industry-standard check; added S40 to S45 search evidence.
+
+---
+
+[← PR/FAQ](../04-prfaq/prfaq.md) · Next: [Deck →](../06-deck/)

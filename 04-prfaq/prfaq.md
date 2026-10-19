@@ -1,7 +1,9 @@
+[← Synthesis](../03-research/synthesis.md) · **Step 4 of 6: PR/FAQ** · Next: [PRD →](../05-prd/prd.md)
+
 # PR/FAQ: choosing a first long-term fund
 
 **Format:** Amazon "Working Backwards" PR/FAQ. A one-page press release written as if the feature has launched, followed by customer and internal FAQs, used to decide whether the idea is worth building before any design or code.
-**Status:** v1.1, Mon Oct 19, 2026. Author: Muhammad Ghazwan. Problem (G2) and metric (G3) approved.
+**Status:** v1.1, Oct 19, 2026. Author: Muhammad Ghazwan. Written after decision G2 (the problem) and agreed before the PRD.
 **Important:** this is an independent student proposal. It is not a Revolut plan, and nothing here is endorsed by Revolut. Evidence is labelled **Primary** (own interviews and app walkthrough, Oct 18 to 19, 2026) or **Secondary** (public sources, date checked). Where Amazon's format uses invented customer and leader quotes, this version uses only real interview quotes and the author's own words.
 
 ---
@@ -77,3 +79,7 @@
 ---
 
 **Sources.** Primary: interviews 1 to 6 (private notes, summarised in [synthesis](../03-research/synthesis.md)) and the app walkthrough ([teardown log](../02-teardown/teardown-log.md), S01 to S45). Secondary: Revolut 2025 annual results (March 2026, as recorded in the teardown log); ESMA guidance on the definition of investment advice, via ESMA pages and law-firm summaries, checked Oct 19, 2026.
+
+---
+
+[← Synthesis](../03-research/synthesis.md) · Next: [PRD →](../05-prd/prd.md)
