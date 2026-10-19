@@ -1,3 +1,5 @@
+[← Overview](README.md)
+
 # Sources
 
 **Primary:** the author's own app walkthrough (Oct 18 to 19, 2026; see the [teardown log](02-teardown/teardown-log.md)) and six student interviews (Oct 19, 2026; notes private, summarised in the [synthesis](03-research/synthesis.md)).
@@ -15,4 +17,12 @@
 | [Revolut ex-ante costs report, US stocks v7.0](https://cdn.revolut.com/legal/terms/RSEUAB/ex-ante-costs-report-US-stocks-v7.0-EN.pdf) | Fee structure; superseded by the in-app banner | Oct 18, 2026 |
 | [FCA: Gaming trading research](https://www.fca.org.uk/publications/research/gaming-trading-how-trading-apps-could-be-engaging-consumers-worse) | Guardrails (UK context) | Oct 18, 2026 |
 | [Nielsen Norman Group: Journey Mapping 101](https://nngroup.com/articles/journey-mapping-101/) | Journey map format | Oct 18, 2026 |
-| Amazon "Working Backwards" PR/FAQ format; Mom Test interviews; jobs-to-be-done | Method | Oct 18, 2026 |
+| [Revolut stocks page](https://www.revolut.com/stocks/) | Starting amount and allowance as advertised | Oct 18, 2026 |
+| [Revolut: Description of Services, Financial Instruments and Risks](https://www.revolut.com/en-EE/legal/services-and-related-risks-description/) | When appropriateness and suitability checks apply | Oct 18, 2026 |
+| [Upvest case study: Revolut](https://upvest.co/success-stories/revolut-scales-its-stocks-and-etfs-offering-to-millions-end-users-with-upvest) | How the investing product was built | Oct 18, 2026 |
+| [FCA: trading apps under review](https://www.fca.org.uk/news/press-releases/fca-keeps-trading-apps-under-review-over-gaming-concerns) | Guardrails (UK context) | Oct 18, 2026 |
+| Amazon "Working Backwards" PR/FAQ format; *The Mom Test*; jobs to be done; Teresa Torres on opportunity solution trees and interview snapshots | Method | Oct 18 to 19, 2026 |
+
+---
+
+[← Overview](README.md)
