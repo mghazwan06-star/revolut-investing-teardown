@@ -85,6 +85,7 @@ flowchart LR
 | [Research](03-research/) | Interview guide and synthesis (anonymised) | 10 min |
 | [Teardown](02-teardown/) | Screen-by-screen log, journey map, competitors | browse |
 | [Deck](06-deck/) | 8-slide summary, viewable on GitHub or as a PDF | 3 min |
+| [Miro board](https://miro.com/app/board/uXjVEYcX4L0=/) | Journey map and interview synthesis on a whiteboard | browse |
 
 ## Limits, stated plainly
 
