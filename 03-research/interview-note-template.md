@@ -1,25 +1,23 @@
-# Interview note sheet (one per interview; completed notes stay private)
+[← Interview guide](interview-guide.md) · **Step 3 of 6: Research** · Next: [Synthesis →](synthesis.md)
 
-Participant number and segment (never invested, started recently, invests regularly):
+# Interview note sheet
 
-Date and length:
+One sheet per interview, filled in within 15 minutes of finishing. Completed sheets stay private; this is the blank template.
 
-Consent given for notes / audio (yes or no):
+| Field | Notes |
+| --- | --- |
+| Participant number and segment | never invested / started recently / invests regularly |
+| Date, length, consent | notes and audio: yes or no |
+| What they actually did | past tense only |
+| Friction moments | where they hesitated or stopped, and what they did next; mark each one prompted or unprompted |
+| Short quotes | under 15 words, no names |
+| Screen task | first tap, time to find an index fund, anything misread |
+| Job statement | When ___, I want to ___, so I can ___ |
+| Hypothesis check | H1 fees, H2 choice and discoverability, H3 free-trade allowance, H4 onboarding: supported, disproved or silent |
+| Surprises | anything I did not expect |
 
-Facts, what they actually did (past tense only):
+Keep facts, opinions and compliments on separate lines.
 
-Friction moments, where they hesitated or stopped, and what they did next:
+---
 
-Short quotes (under 15 words, no names):
-
-Screen task: first tap, time to find an index fund, anything confusing:
-
-If they use Trade Republic or DEGIRO: how they first found their index fund (taps, wording):
-
-Job statement: When ___, I want to ___, so I can ___:
-
-Hypothesis check (H1 fees, H2 choice and discoverability, H3 free-trade allowance, H4 onboarding effort): supported, disproved or silent?
-
-Surprises (anything we did not expect):
-
-Write this up within 15 minutes of finishing. Keep facts, opinions and compliments on separate lines.
+[← Interview guide](interview-guide.md) · Next: [Synthesis →](synthesis.md)

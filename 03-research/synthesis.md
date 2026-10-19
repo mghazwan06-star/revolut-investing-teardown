@@ -1,8 +1,10 @@
-# Synthesis: what six student interviews say (Phase 3)
+[← Interview guide](interview-guide.md) · **Step 3 of 6: Research** · Next: [PR/FAQ →](../04-prfaq/prfaq.md)
 
-Drafted Mon Oct 19, 2026 from six private interview notes (not published). **Status: Decision G2 made by Muhammad on Mon Oct 19: option 1.** All evidence is Primary (his own interviews) unless marked Secondary. Participants appear by number only. Quotes are under 15 words and taken from the interview text.
+# Synthesis: what six student interviews say
 
-Plain-language key: *affinity grouping* = put every friction moment on one board and group the ones that mean the same thing. *Unprompted* = the person raised it before we asked about it. *Severity* = how much it cost them: 1 annoyed, 2 delayed, 3 stopped or lost money.
+Written Oct 19, 2026 from my six private interview notes. **Decision G2: on Oct 19 I chose option 1 (section 6).** All evidence is Primary (my interviews) unless marked Secondary. Participants appear by number only; quotes are under 15 words.
+
+Terms: *affinity grouping* means putting every friction moment on one board and grouping the ones that mean the same thing. *Unprompted* means the person raised it before I asked about it. *Severity* is what it cost them: 1 annoyed, 2 delayed, 3 stopped or lost money.
 
 ## 1. Who and how (so the evidence can be judged)
 
@@ -33,7 +35,7 @@ Method: P1 and P2 are typed notes taken during the call; P3 to P6 are voice reco
 | I | **Recurring buy feels like losing control of money** | P2 | | 1 | Single case, not used as evidence |
 | J | **In-app convenience is a reason to start** (no second app) | P2, P3, P5 | | 3 | Positive. What works |
 
-Scoring rule: severity points added across the people who raised the group. A = 11, B = 9, C = 9, D = 6, F = 4, G and H = 0. This is my judgment of severity from the notes; Muhammad can adjust it.
+Scoring rule: severity points added across the people who raised the group. A = 11, B = 9, C = 9, D = 6, F = 4, G and H = 0. The severity scores are my judgement from the notes.
 
 Quotes that carry the finding:
 - P6: "The problem wasn't finding products. It was knowing how to choose between them."
@@ -66,9 +68,9 @@ Rule: a problem counts only if at least 3 of 6 raise it unprompted, **or** 2 des
 | H3 | Free-trade allowance is confusing | **Weak** | Medium | Many don't know it, but nobody was hurt or confused in a way that mattered |
 | H4 | Onboarding effort makes people quit | **Not supported as a cause** | Medium | Friction yes, quitting no. Non-starters (P4, P6) cite no goal, not setup |
 
-Honest note: the strongest candidate going in (H2) survived, but in a different form than we wrote it. The original wording blamed discoverability; the interviews point at choice and understanding.
+Honest note: the strongest candidate going in (H2) survived, but in a different form than I wrote it. The original wording blamed discoverability; the interviews point at choice and understanding.
 
-## 5. The problem (Decision G2 candidate)
+## 5. The problem (decision G2)
 
 **Job statement:** When I'm a student with a small amount of spare money and want to start investing for the long term, I want to tell which of several near-identical funds is the right one, and what risk I'm taking, so I can buy with confidence without spending hours researching somewhere else.
 
@@ -78,7 +80,7 @@ Honest note: the strongest candidate going in (H2) survived, but in a different 
 
 **Why this one:**
 - It passes the decision rule on both tests.
-- It maps to a part of the app we have seen (ETF search results, S38).
+- It maps to a screen I captured (the S&P 500 search results, S40).
 - It is addressable inside the product (explanation, comparison, clarity on risk) without needing a regulatory change.
 - It protects the user: it moves first-timers toward broad funds and away from news-driven single stocks (E), which fits the regulator guardrail.
 
@@ -86,14 +88,14 @@ Honest note: the strongest candidate going in (H2) survived, but in a different 
 
 | Option | Problem | Pros | Cons |
 | --- | --- | --- | --- |
-| **1 (recommended)** | Student can't tell near-identical funds apart or understand the risk, so they stall or leave | Passes both tests, strongest evidence, product-addressable | Root cause may partly be "no goal" (D); needs a screenshot of what they saw |
-| 2 | Students don't understand risk ("can I lose it all?", "can I withdraw?") | Raised by P1, P3, P4 | Thinner; one person was stopped by it. Better treated as part of option 1 |
+| **1 (chosen)** | Student can't tell near-identical funds apart or understand the risk, so they stall or leave | Passes both tests, strongest evidence, product-addressable | Root cause may partly be "no goal" (D); tested first in the prototype |
+| 2 | Students don't understand risk ("can I lose it all?", "can I withdraw?") | Raised by P1, P4, P6 | Thinner; one person was stopped by it. Better treated as part of option 1 |
 | 3 | Suggestion-led single-stock buying | Matches a regulator concern | No harm shown in the interviews; it is a guardrail, not a pain |
 | 4 | "The product is strong here; the opportunity is narrow" | Honest fallback | Not needed. Option 1 passes the rule |
 
 ## 7. Opportunity framing (not solutions yet)
 
-Outcome we care about: *more students who want a long-term fund make a first purchase they feel confident about.*
+Outcome: *more students who want a long-term fund make a first purchase they feel confident about.*
 
 - Opportunity 1: after searching a broad index (for example S&P 500), the student can see what makes the results different in plain words.
 - Opportunity 2: the student can see the risk and how to withdraw before they commit.
@@ -114,35 +116,35 @@ Updated from the hypothesis in [journey map](../02-teardown/journey-map.md), 1 u
 | 4 Place the first order | 3 | **4** | Those who got there found it simple |
 | 5 After the order | not observed | **3** | Only P3 spoke; price swings made them check often |
 
-## 9. How sure are we, and what would change our mind
+## 9. How sure I am, and what would change my mind
 
-**Strengths:** all six independently landed on the same S&P 500 stall; two never-invested students stopped there; interviews followed a pre-set rule.
+**Strengths:** five of six independently described the same difficulty; both students who had never invested stopped at the same screen; the rule was written before the first interview.
 
-**Weaknesses and biases (state these in the PRD):**
+**Weaknesses and biases (also stated in the PRD):**
 - n = 6, all young students, one university context likely, five on Revolut. Early evidence, not proof.
 - P5 and P6 are in a finance society, so they are more informed than a typical student.
 - The screen task named a concrete task (a ten-year, €50 fund), and in two cases the near-identical finding showed up only there.
 - P4 and P6 only knew "S&P 500" by name. The search term shapes what they saw.
-- (Resolved Oct 19.) The S&P 500 search screen is now captured in S40 to S45. It shows three similar funds with no comparison cue, which matches what P2, P4 and P6 described.
-- AI-assisted transcripts for P3 to P6.
+- P3 to P6 were transcribed with an AI tool from recordings and checked by me against the audio.
 - "No goal" (D) could be the real cause, with fund choice as the excuse. P6 says they kept saying they'd research first.
 
-**Would change our mind if:**
+**Would change my mind if:**
 - Four more students (not in a finance society) find the choice easy.
-- The search results turn out to show a clear plain-language differentiator we missed.
+- The search results turn out to show a clear plain-language differentiator I missed.
 - The stall disappears when the student has a stated goal.
 
-## 9b. New evidence from the search screen (Oct 19, S40 to S45)
+## 10. Checking the screen students described (S40 to S45)
 
-- The screen the interviewees described exists as they said: three near-identical S&P 500 funds, no comparison cue (S40).
+- After the interviews I captured the search screen. It matches what students described: three near-identical S&P 500 funds, no comparison cue (S40).
 - The data for a comparison already sits on each fund page: size, dividend yield, net expense ratio, risk indicator 5/7, country exposure and a KID link (S44, S45). The gap is the side-by-side view at the point of choice, not missing data.
 - The same search mixes in CFD versions of ETFs with near-identical names, and an unrelated stock called "S&P" (S40, S41).
-- Effect on the solution: the opportunity is "show what the app already knows, together and in plain words", not "add new data". PRD and PR/FAQ updated.
+- Effect on the solution: the opportunity is "show what the app already knows, together and in plain words", not "add new data".
 
-## 10. To do next
+## 11. Next steps
 
-- [x] (M) Screenshot what Revolut shows when you search "S&P 500". Done Oct 19 (S40 to S45). Optional: also screenshot a search for "world" or "global".
-- [ ] (M) **Decision G2:** approve option 1 or choose another.
-- [ ] (C) Fill the PR/FAQ template once G2 is approved.
-- [ ] (C) Verify the "personal advice" regulatory boundary from a public source before the PRD proposes anything that names a fund.
-- [ ] (M, optional) Add 1 or 2 non-finance-society students if time allows, to weaken the bias above.
+- Test the riskiest assumptions with a clickable prototype and 5 to 8 students outside a finance society: see the assumption map and test plan in [Miro frame 5](https://miro.com/app/board/uXjVEYcX4L0=/?moveToWidget=3458764687766369806).
+- The same synthesis as a board, with every note: [Miro frame 2](https://miro.com/app/board/uXjVEYcX4L0=/?moveToWidget=3458764687765872717); one card per student: [frame 3](https://miro.com/app/board/uXjVEYcX4L0=/?moveToWidget=3458764687766248737).
+
+---
+
+[← Interview guide](interview-guide.md) · Next: [PR/FAQ →](../04-prfaq/prfaq.md)
