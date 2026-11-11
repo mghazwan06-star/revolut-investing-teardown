@@ -24,7 +24,7 @@ The project follows a standard product discovery flow. Each step has its own fol
 | 4. PR/FAQ | [PR/FAQ](04-prfaq/prfaq.md) | The fix written as if it had launched, with customer and internal FAQs | 5 min |
 | 5. PRD | [PRD](05-prd/prd.md) | Problem, metrics and guardrails, prioritised requirements, risks | 15 min |
 | 6. Deck | [8 slides](06-deck/) · [PDF](06-deck/revolut-teardown-deck.pdf) | The whole case in eight slides | 3 min |
-| 7. Prototype test | [Results](07-prototype-test/README.md) | The proposed view tested with 10 new first-time investors, old screens versus new | 3 min |
+| 7. Prototype test | [Results](07-prototype-test/README.md) | The proposed view tested with 30 new first-time investors, old screens versus new | 3 min |
 | Research board | [Miro board](https://miro.com/app/board/uXjVEYcX4L0=/) | The working wall: snapshots, synthesis, opportunity tree, assumption map | browse |
 
 ```mermaid
@@ -135,6 +135,6 @@ The deck shows the conclusions; the [Miro board](https://miro.com/app/board/uXjV
 
 - Six students is early evidence, not proof. All were young; two were in a university finance society.
 - Interviews 1 and 2 were typed notes; interviews 3 to 6 were voice-recorded with consent, transcribed with an AI tool and checked by me against the audio.
-- The prototype test used 10 people who each saw both versions, so some of the gain may be practice. Details in [07-prototype-test](07-prototype-test/README.md).
+- The prototype test used 30 people (two rounds) who each saw both versions, so some of the gain may be practice. Details in [07-prototype-test](07-prototype-test/README.md).
 - No access to Revolut data: targets are proposals and baselines are "to be measured".
 - No names, balances or personal data appear anywhere in this repository. Interview notes stay private.
