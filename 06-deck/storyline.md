@@ -1,8 +1,10 @@
-[← Deck](README.md) · **Step 6 of 6: Deck** · [Overview](../README.md)
+[← Deck](README.md) · **Step 6 of 7: Deck** · Next: [Prototype test →](../07-prototype-test/README.md) · [Overview](../README.md)
 
 # Deck storyline
 
 Before designing any slide I agreed the storyline as a ghost deck: the argument as a chain of action titles, using consulting storyline methods (SCQA opening, Pyramid Principle, action titles). Every number traces to the [synthesis](../03-research/synthesis.md), the [PRD](../05-prd/prd.md) or the [teardown log](../02-teardown/teardown-log.md).
+
+**Update, November 2026:** after the prototype test the deck grew to 12 slides. Results now come first, as they should for a reader with five minutes: an overview, the test results and the evidence trail (slides 1 to 3), then the original storyline (slides 4 to 9), the prototype test (10), what comes next (11) and what I learned (12). The chain below is the original 8-slide plan.
 
 ## SCQA
 
@@ -11,7 +13,7 @@ Before designing any slide I agreed the storyline as a ghost deck: the argument 
 - **Question:** how can Revolut help a first-time student choose a fund with confidence, without giving advice?
 - **Answer:** show the facts the app already holds side by side, in plain words, with no ranking, and a two-line risk summary before the first order.
 
-## Title chain (8 slides)
+## Title chain (original 8 slides)
 
 | # | Action title | Exhibit | Confidence |
 | --- | --- | --- | --- |

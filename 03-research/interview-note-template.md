@@ -1,4 +1,4 @@
-[← Interview guide](interview-guide.md) · **Step 3 of 6: Research** · Next: [Synthesis →](synthesis.md)
+[← Interview guide](interview-guide.md) · **Step 3 of 7: Research** · Next: [Synthesis →](synthesis.md)
 
 # Interview note sheet
 

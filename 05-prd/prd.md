@@ -1,4 +1,4 @@
-[← PR/FAQ](../04-prfaq/prfaq.md) · **Step 5 of 6: PRD** · Next: [Deck →](../06-deck/)
+[← PR/FAQ](../04-prfaq/prfaq.md) · **Step 5 of 7: PRD** · Next: [Deck →](../06-deck/)
 
 # PRD: Helping students choose their first long-term fund
 

@@ -1,4 +1,4 @@
-[← Teardown log](../teardown-log.md) · **Step 2 of 6: Teardown** · [Overview](../../README.md)
+[← Teardown log](../teardown-log.md) · **Step 2 of 7: Teardown** · [Overview](../../README.md)
 
 # Selected screenshots
 
@@ -25,7 +25,7 @@
 | [<img src="S40_search-sp500-etf-results.png" width="130">](S40_search-sp500-etf-results.png) | [<img src="S41_search-sp500-markets-and-cfds.png" width="130">](S41_search-sp500-markets-and-cfds.png) | [<img src="S42_search-sp500-help-links-and-products.png" width="130">](S42_search-sp500-help-links-and-products.png) | [<img src="S43_vusa-page-top-free-trade-banner.png" width="130">](S43_vusa-page-top-free-trade-banner.png) | [<img src="S44_vusa-plan-teaser-and-key-stats.png" width="130">](S44_vusa-plan-teaser-and-key-stats.png) | [<img src="S45_vusa-about-and-key-information-document.png" width="130">](S45_vusa-about-and-key-information-document.png) |
 | Three funds, one index | Near-identical CFD names | Below everything else | Free-trade banner again | Cost, size, risk score | Risk text at the bottom |
 
-The annotated version of S40 is in the [overview](../../README.md#3-the-screen-where-they-stalled).
+The annotated version of S40 is in the [overview](../../README.md#the-problem).
 
 ---
 

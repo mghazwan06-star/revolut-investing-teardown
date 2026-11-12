@@ -1,4 +1,4 @@
-[← Synthesis](../03-research/synthesis.md) · **Step 4 of 6: PR/FAQ** · Next: [PRD →](../05-prd/prd.md)
+[← Synthesis](../03-research/synthesis.md) · **Step 4 of 7: PR/FAQ** · Next: [PRD →](../05-prd/prd.md)
 
 # PR/FAQ: choosing a first long-term fund
 

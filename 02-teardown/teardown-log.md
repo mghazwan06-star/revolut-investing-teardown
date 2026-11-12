@@ -1,4 +1,4 @@
-[← Research method](../01-scope/research-method.md) · **Step 2 of 6: Teardown** · Next: [Journey map →](journey-map.md)
+[← Research method](../01-scope/research-method.md) · **Step 2 of 7: Teardown** · Next: [Journey map →](journey-map.md)
 
 # Teardown log: my walkthrough of Revolut investing
 

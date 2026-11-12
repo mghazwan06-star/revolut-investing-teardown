@@ -1,8 +1,12 @@
 # Prototype test: does the proposed view help?
 
-[← PRD](../05-prd/prd.md) · [Back to the project](../README.md)
+[← Deck](../06-deck/README.md) · **Step 7 of 7: Prototype test** · [Overview](../README.md)
 
 After the PRD, I tested the proposal with 30 new people in two rounds: 10, then 20 a week later. This page records what I did and what I found. **Evidence label: Primary** (my own sessions, run in November 2026).
+
+![Results. In a 30-person test, the new view lifted confident choices from 40% to 60% and doubled risk understanding. One square per tester, today versus new: chose a long-term fund and could explain why 40% to 60%; saw the risk and could explain it 30% to 60%; read the screen as advice 30% to 10%. Still open: 40% still could not choose and explain; 1 in 10 still read it as advice; everyone saw both versions, so some gain may be practice.](../06-deck/slides/slide-02-results.png)
+
+![Each part of the fix moved its own measure. Same-index grouping and five plain fields (R1, R2) target choice; a plain-words risk summary (R4) targets risk; no ranking or badges (R3) targets advice reading.](../06-deck/slides/slide-10-test.png)
 
 ## Setup
 

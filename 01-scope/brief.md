@@ -1,4 +1,4 @@
-[← Overview](../README.md) · **Step 1 of 6: Scope** · Next: [Research method →](research-method.md)
+[← Overview](../README.md) · **Step 1 of 7: Scope** · Next: [Research method →](research-method.md)
 
 # Project brief
 

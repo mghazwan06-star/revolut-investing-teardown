@@ -1,4 +1,4 @@
-[← Competitors](../02-teardown/alternatives-comparison.md) · **Step 3 of 6: Research** · Next: [Synthesis →](synthesis.md)
+[← Competitors](../02-teardown/alternatives-comparison.md) · **Step 3 of 7: Research** · Next: [Synthesis →](synthesis.md)
 
 # Interview guide
 

@@ -1,4 +1,4 @@
-[← Interview guide](interview-guide.md) · **Step 3 of 6: Research** · Next: [PR/FAQ →](../04-prfaq/prfaq.md)
+[← Interview guide](interview-guide.md) · **Step 3 of 7: Research** · Next: [PR/FAQ →](../04-prfaq/prfaq.md)
 
 # Synthesis: what six student interviews say
 

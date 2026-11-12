@@ -1,4 +1,4 @@
-[← Teardown log](teardown-log.md) · **Step 2 of 6: Teardown** · Next: [Competitors →](alternatives-comparison.md)
+[← Teardown log](teardown-log.md) · **Step 2 of 7: Teardown** · Next: [Competitors →](alternatives-comparison.md)
 
 # Journey map: a student's first fund purchase
 

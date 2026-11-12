@@ -1,4 +1,4 @@
-[← Journey map](journey-map.md) · **Step 2 of 6: Teardown** · Next: [Interview guide →](../03-research/interview-guide.md)
+[← Journey map](journey-map.md) · **Step 2 of 7: Teardown** · Next: [Interview guide →](../03-research/interview-guide.md)
 
 # Competitor comparison: Revolut, Trade Republic, DEGIRO and bunq
 

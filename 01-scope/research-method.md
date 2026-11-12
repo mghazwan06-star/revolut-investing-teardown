@@ -1,4 +1,4 @@
-[← Brief](brief.md) · **Step 1 of 6: Scope** · Next: [Teardown log →](../02-teardown/teardown-log.md)
+[← Brief](brief.md) · **Step 1 of 7: Scope** · Next: [Teardown log →](../02-teardown/teardown-log.md)
 
 # Research method
 
